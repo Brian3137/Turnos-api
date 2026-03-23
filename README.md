@@ -61,6 +61,3 @@ Este proyecto es una API REST desarrollada con Spring Boot que permite gestionar
   "doctor": { "id": 1 },
   "paciente": { "id": 1 }
 }
-  "doctor"
-  "paciente": { "id": 1 }
-}
